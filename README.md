@@ -11,7 +11,9 @@ https://ai.robotis.com/omx/introduction_omx.html
 
 * [로보티즈(ROBOTIS) e-Manual 바로가기](https://emanual.robotis.com/)
 * [DYNAMIXEL 서브모터 제어 가이드](https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/)
-* 
+* 서보모터 ID 세팅 (https://www.notion.so/zeta7/1-DXL-Wizard-2-0-29e0db9684a380d6b4e6e3be034ee353)
+  
+  
 ### 3. 데이터 수집 및 전처리
 * [데이터 사이언스 기초 (Pandas/Numpy)](https://pandas.pydata.org/docs/user_guide/10min.html)
 * [머신러닝 데이터 전처리 기법](https://scikit-learn.org/stable/modules/preprocessing.html)
